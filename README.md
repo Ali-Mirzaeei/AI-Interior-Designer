@@ -7,8 +7,8 @@ Upload a picture of your room, choose your preferred design style, and get a red
 
 ## 📸 Demo
 
-![Demo](./src/assets/demo.gif)
-![Screenshot](./src/assets/screenshot.png)
+![Demo](./assets/demo.gif)
+![Screenshot](./assets/screenshot.png)
 
 ---
 
@@ -69,5 +69,6 @@ ai-interior-designer/
 │── backend/      # FastAPI backend + Stability AI API integration
 │── frontend/     # React + Tailwind frontend
 │── README.md     # This file
+
 
 
