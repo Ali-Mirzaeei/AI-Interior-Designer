@@ -70,5 +70,4 @@ ai-interior-designer/
 │── frontend/     # React + Tailwind frontend
 │── README.md     # This file
 
-
-
+```
